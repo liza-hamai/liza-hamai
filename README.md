@@ -1,4 +1,4 @@
-<div align="center" id="space-top">
+<div align="center">
 
 # · . ✫ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ✧ • . ·
 
@@ -8,15 +8,15 @@
 
 <br>
 
-✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 [☄︎](#asteroid-hit) 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 ˚ 　　· . . ˚ 　　 ✧ · . · _ . · . . · • . · _ · . · ✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 [🪨](#asteroid-hit) 　　· . . ˚ 　　 ✧ . \*
+✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 [☄︎](asteroid.md) 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 ˚ 　　· . . ˚ 　　 ✧ · . · _ . · . . · • . · _ · . · ✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 [🪨](asteroid.md) 　　· . . ˚ 　　 ✧ . \*
 
 <br>
 
-✧ · . · _ . · . [☄︎](#asteroid-hit) . · • . · _ · . · ✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 ✫ 　 ˚ 　 　　· . . [🛸](#file-67) ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 ˚ 　　· . . ˚ 　　 ✧ . \*
+✧ · . · _ . · . [☄︎](asteroid.md) . · • . · _ · . · ✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 ✫ 　 ˚ 　 　　· . . [🛸](67.md) ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 ˚ 　　· . . ˚ 　　 ✧ . \*
 
 <br>
 
-✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 [🪨](#asteroid-hit) 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 ˚ 　　· . . ˚ 　　 ✧ · . · _ . · . . · • . · _ · . · ✦ 　
+✦ 　　 ✫ 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀. ✦ 　　 [🪨](asteroid.md) 　 ˚ 　 　　· . . ˚ 　　 ✧　　　 + .⠀⠀⠀⠀⠀⠀⠀　 ✫ 　 ˚ 　　· . . ˚ 　　 ✧ · . · _ . · . . · • . · _ · . · ✦ 　
 
 <br>
 
@@ -36,29 +36,5 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
-</div>
-
-<!-- The space between the surface and the secrets -->
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<div align="center" id="asteroid-hit">
-
-### 🪨 Just an ordinary asteroid...
-
-[⬅ Return](#space-top)
-
-</div>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<div align="center" id="file-67">
-
-### 67
-
-`Congratulations, you found 67! 🎉🎉🎉`
-
-[⬅ Return](#space-top)
 
 </div>
